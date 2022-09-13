@@ -100,3 +100,4 @@ async def create_stock(stock_request: StockRequest, background_tasks: Background
         "code": "success",
         "message": "stock created"
         }
+
